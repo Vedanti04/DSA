@@ -36,8 +36,18 @@ void explainVector(){
 
 
     cout << v[0] << " " << v.at[0];
-    cout << v.back() <<" ";
+    cout << v.back() <<" ";          // 
 
-      
+    for(vector<int>::iterator it = v.begin(); it !=v.end(); it++){     
+        cout << *(it) <<" ";                                      // you can print all the vector 
+    }
 
+    for (auto it = v.begin(); it !=v.end(); it++) {            // automatically assign = auto
+        cout << *(it) <<" ";
+
+    }
+    
+    for (auto it : v){                  // another way of printing vector
+        cout << it << " ";               
+    }
 }
