@@ -50,4 +50,13 @@ void explainVector(){
     for (auto it : v){                  // another way of printing vector
         cout << it << " ";               
     }
+    
+    //{10,20,12,23}
+    v.erase(v.begin()+1);
+
+    //{10,20,12,23,35}
+     v.erase(v.begin()+ 2,v.begin() + 4);       //output ={10,20,35} {start , end}
+
+     
+
 }
