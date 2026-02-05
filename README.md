@@ -25,3 +25,9 @@ Palindrome Check
 
 Day 05 – Completed
 Pattern Problems (Right Half Pyramid)
+
+Day 6 – Day 8: Completed 
+ Topic: Vector in C++ (STL)
+
+Vector is a dynamic array provided by STL.
+It can grow or shrink automatically and stores elements in contiguous memory, just like arrays.
