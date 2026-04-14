@@ -9,7 +9,7 @@
     <b>Rectangle</b> denotes the calculation or some arthimatic operations.<br />
     <b>Rhombus</b> denotes the decision or comparison, etc.<br />
     <b>Note : There is no symbol or shape for loops but decision shape can be used to make loop.</b> <br />
-    <img src="https://www.researchgate.net/figure/Standard-Flowchart-Symbols_fig1_338671462" />
+    <img src="/Concepts/1 Introduction, Flow Charts, PseudoCode, Programming and Why/download (12).jpeg">
   </li>
   <li>
     <b>PseudoCode: </b> It is general instructions without any syntax but once it is written it can be easily converted into a code.
